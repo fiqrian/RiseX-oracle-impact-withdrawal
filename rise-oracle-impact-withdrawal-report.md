@@ -192,5 +192,3 @@ Accordingly, this report does **not** claim a verified live-mainnet drain, infin
 - `rise-phase-b-evidence/phase-b-cleanup.json`
 - `rise-phase-b-evidence/phase-b-readonly-snapshot.json`
 - `rise-oracle-mainnet-calibration-20570116.md` (read-only mainnet-state calibration)
-
-Do not attach `/root/rise-phase-b-private/` or any account/JWT/private-key file.
