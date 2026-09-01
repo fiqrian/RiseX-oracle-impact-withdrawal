@@ -1,0 +1,162 @@
+{
+  "samples": [
+    {
+      "a_live_order_count": 2,
+      "account_equity_wad": null,
+      "api_withdrawable_usdc_wad": null,
+      "best_ask": "80249.9",
+      "best_bid": "80249.8",
+      "elapsed_seconds": 0.0,
+      "free_cross_margin_balance_wad": null,
+      "index_price_wad": 78796956509078518000000,
+      "mark_price_wad": 78768725531965756000000,
+      "number": 53119977,
+      "position": {
+        "account": "0x5941a349ED4A5116Fad165d3AAB13CcA3b6a07dD",
+        "avg_entry_price": "80250000000000000000000",
+        "block_number": "0",
+        "isolated_usdc_balance": "0",
+        "last_funding_payment": "-11800664231871002479883",
+        "leverage": "50000000000000000000",
+        "log_index": "0",
+        "margin_mode": 0,
+        "market_id": "1",
+        "quote_amount": "-401330250000000000000",
+        "side": "BUY",
+        "size": "5000000000000000",
+        "unsettled_funding": "0",
+        "worker_timestamp": "0"
+      },
+      "timestamp": 1788208737,
+      "withdrawable_usdc_wad": 707641806974201899043
+    },
+    {
+      "a_live_order_count": 2,
+      "account_equity_wad": null,
+      "api_withdrawable_usdc_wad": null,
+      "best_ask": "80249.9",
+      "best_bid": "80249.8",
+      "elapsed_seconds": 14.99,
+      "free_cross_margin_balance_wad": null,
+      "index_price_wad": 78796776534724689000000,
+      "mark_price_wad": 78766025916658356000000,
+      "number": 53119995,
+      "position": {
+        "account": "0x5941a349ED4A5116Fad165d3AAB13CcA3b6a07dD",
+        "avg_entry_price": "80250000000000000000000",
+        "block_number": "0",
+        "isolated_usdc_balance": "0",
+        "last_funding_payment": "-11800664231871002479883",
+        "leverage": "50000000000000000000",
+        "log_index": "0",
+        "margin_mode": 0,
+        "market_id": "1",
+        "quote_amount": "-401330250000000000000",
+        "side": "BUY",
+        "size": "5000000000000000",
+        "unsettled_funding": "0",
+        "worker_timestamp": "0"
+      },
+      "timestamp": 1788208755,
+      "withdrawable_usdc_wad": 707628578859195639043
+    }
+  ],
+  "state": {
+    "account_a": "0xD903bEB2fb62fB5bB9dA83391dB49768226fac46",
+    "account_b": "0x5941a349ED4A5116Fad165d3AAB13CcA3b6a07dD",
+    "after_placement": {
+      "account_equity_wad": null,
+      "api_withdrawable_usdc_wad": null,
+      "free_cross_margin_balance_wad": null,
+      "index_price_wad": 78780623836468745000000,
+      "mark_price_wad": 78749528267557572000000,
+      "number": 53119961,
+      "position": {
+        "account": "0x5941a349ED4A5116Fad165d3AAB13CcA3b6a07dD",
+        "avg_entry_price": "80250000000000000000000",
+        "block_number": "0",
+        "isolated_usdc_balance": "0",
+        "last_funding_payment": "-11800664231871002479883",
+        "leverage": "50000000000000000000",
+        "log_index": "0",
+        "margin_mode": 0,
+        "market_id": "1",
+        "quote_amount": "-401330250000000000000",
+        "side": "BUY",
+        "size": "5000000000000000",
+        "unsettled_funding": "0",
+        "worker_timestamp": "0"
+      },
+      "timestamp": 1788208721,
+      "withdrawable_usdc_wad": 707547740378601797443
+    },
+    "baseline": {
+      "account_equity_wad": null,
+      "api_withdrawable_usdc_wad": null,
+      "free_cross_margin_balance_wad": null,
+      "index_price_wad": 78781623693990011000000,
+      "mark_price_wad": 78412140048326199206454,
+      "number": 53119954,
+      "position": {
+        "account": "0x5941a349ED4A5116Fad165d3AAB13CcA3b6a07dD",
+        "avg_entry_price": "80250000000000000000000",
+        "block_number": "0",
+        "isolated_usdc_balance": "0",
+        "last_funding_payment": "-11800664231871002479883",
+        "leverage": "50000000000000000000",
+        "log_index": "0",
+        "margin_mode": 0,
+        "market_id": "1",
+        "quote_amount": "-401330250000000000000",
+        "side": "BUY",
+        "size": "5000000000000000",
+        "unsettled_funding": "0",
+        "worker_timestamp": "0"
+      },
+      "timestamp": 1788208714,
+      "withdrawable_usdc_wad": 705883196220575632954
+    },
+    "chain_id": 11155931,
+    "market_id": 1,
+    "monitor": {
+      "duration_seconds": 180,
+      "elapsed_seconds": 22.079268030822277,
+      "final_withdrawable_delta_wad": 1745382638620006089,
+      "outcome": "target_reached",
+      "samples": 2,
+      "sync_transactions": [
+        {
+          "elapsed_seconds": 14.990455586463213,
+          "index_block": 53119994,
+          "index_tx": "0x66a54e2bb11666e508f855076bfb58e580da563cd5b23c44436b809d69421642",
+          "mark_block": 53119996,
+          "mark_tx": "0x76658d0f15a667d1aec63515d60471f81439f45426b8ce473411d269ddb2628e"
+        }
+      ],
+      "target_withdrawable_delta_wad": 1000000000000000000
+    },
+    "orders": {
+      "buy": {
+        "client_order_id": "178820871601",
+        "notional_usdc": "25000.0596944",
+        "order_id": "0x0000000000033b6100000000032a8bd60000000000000053",
+        "price": "80249.8",
+        "price_ticks": 802498,
+        "size_steps": 311528,
+        "tx_hash": "0xe646908ed75e5ba59790108e763e0b3371457338a25d78eda412c1b03e25271b"
+      },
+      "sell": {
+        "client_order_id": "178820871602",
+        "notional_usdc": "25000.0908472",
+        "order_id": "0x0000000000033b6300000000032a8bd8000000000000001b",
+        "price": "80249.9",
+        "price_ticks": 802499,
+        "size_steps": 311528,
+        "tx_hash": "0xf6924d9b3d72e162d2b37542bb4760d2f29a313d4d8d1c65735b17a6b69d172b"
+      }
+    },
+    "started_at": 1788208723,
+    "verified_impact_ask_wad": 80249900000000000135748,
+    "verified_impact_bid_wad": 80249800000000000160137
+  }
+}

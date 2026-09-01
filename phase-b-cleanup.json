@@ -1,0 +1,46 @@
+{
+  "a_remaining_orders": 0,
+  "cancel_a": {
+    "http_status": 200,
+    "response": {
+      "data": {
+        "block_number": "53120125",
+        "success": true,
+        "tx_hash": "0xeab6959db24c384560c1cbab7b3c7b1a1fa7e9f51788bd3aafb76b46de5b17b3"
+      },
+      "request_id": "accb5eef-7503-46a9-9cb2-4e18ec6a13e9"
+    },
+    "tx_hash": "0xeab6959db24c384560c1cbab7b3c7b1a1fa7e9f51788bd3aafb76b46de5b17b3"
+  },
+  "close_a": {
+    "already_flat": false,
+    "chunks": [
+      {
+        "limit_price": "80250",
+        "order_type": "LIMIT",
+        "response": {
+          "data": {
+            "block_number": "53120127",
+            "filled_percent": "100.00",
+            "filled_quantity": "3728000000000000",
+            "message": "Order fully filled",
+            "order_id": "0x0000000000033b6000000000032a8c7f000000000000007d",
+            "sc_order_id": "211808",
+            "tx_hash": "0x99096b8ae1c741a5eec8bcaf7624e96f981a5656c600962b6090617e77dc2576"
+          },
+          "request_id": "25e21fcc-39e4-4315-ac58-62d63ac54cf1"
+        },
+        "size_steps": 3728,
+        "time_in_force": "IOC",
+        "tx_hash": "0x99096b8ae1c741a5eec8bcaf7624e96f981a5656c600962b6090617e77dc2576"
+      }
+    ],
+    "closed_size_wad": -3728000000000000,
+    "label": "A"
+  },
+  "close_b": {
+    "already_flat": true,
+    "label": "B"
+  },
+  "errors": []
+}

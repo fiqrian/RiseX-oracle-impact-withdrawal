@@ -1,0 +1,21 @@
+{
+  "account_a": "0xD903bEB2fb62fB5bB9dA83391dB49768226fac46",
+  "account_a_native_balance_wei": 0,
+  "account_a_open_orders": 0,
+  "account_b": "0x5941a349ED4A5116Fad165d3AAB13CcA3b6a07dD",
+  "account_b_native_balance_wei": 9999999988102396,
+  "best_ask": "80250",
+  "best_bid": "72000",
+  "chain_id": 11155931,
+  "metrics_b": {
+    "account_equity_wad": null,
+    "api_withdrawable_usdc_wad": null,
+    "free_cross_margin_balance_wad": null,
+    "index_price_wad": 78830146054499942000000,
+    "mark_price_wad": 78581059924811022829743,
+    "number": 53120132,
+    "position": null,
+    "timestamp": 1788208892,
+    "withdrawable_usdc_wad": 699059051867569694643
+  }
+}
